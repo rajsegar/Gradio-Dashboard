@@ -131,15 +131,13 @@ python gardio.py
 https://github.com/user-attachments/assets/3ec62208-2888-47ac-a29a-d0a56c57a131
 
 
-
-
 ## 🤝 Contribution
 
-Feel free to:
+Feel free and join the social 
 
-* Submit issues
+https://www.linkedin.com/in/rajsegar-alagarathnam/
+
 * Fork the repo
-* Open PRs to improve UI, deployment, or model loading
 
 ---
 
