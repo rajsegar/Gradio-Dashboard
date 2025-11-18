@@ -1,3 +1,7 @@
+
+<img width="381" height="132" alt="gar" src="https://github.com/user-attachments/assets/5fe78c40-59ac-4606-924e-2ce79ca88970" />
+
+
 # Gradio-Dashboard
 Gradio is an open-source Python package that simplifies the technique of constructing demos or web applications for machine learning models, APIs, or any Python function. With it, you may create demos or web applications while not having JavaScript, CSS, or web hosting experience.
 
@@ -123,7 +127,10 @@ Just run:
 python gardio.py
 ```
 
-https://drive.google.com/file/d/1ogs4KRtFm2pNluJh3Hx39FHXfhm9JQQn/view?usp=drive_link
+
+https://github.com/user-attachments/assets/3ec62208-2888-47ac-a29a-d0a56c57a131
+
+
 
 
 ## 🤝 Contribution
